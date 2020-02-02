@@ -6,7 +6,7 @@
 * .prettierrc
 
 #### Instalations
-``` yarn add eslint prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D ```
+```yarn add eslint prettier eslint-config-prettier eslint-plugin-prettier babel-eslint eslint-plugin-react-hooks -D```
 
 #### ES Lint initialization
 ```yarn eslint --init```
